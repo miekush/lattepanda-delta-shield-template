@@ -1,7 +1,11 @@
 # LattePanda Delta Shield KiCad Template
 KiCad Project Template for LattePanda Delta Shields
 
+# PCB
 ![Board Image](https://github.com/miekush/lattepanda-delta-shield-template/blob/main/lattepanda_delta_shield_template.png)
+
+# Schematic
+![Schematic Image](https://github.com/miekush/lattepanda-delta-shield-template/blob/main/lattepanda_delta_shield_template_sch.png)
 
 Designed by Mike Kushnerik (MKE) in KiCad V5
 
